@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "ndNnhfs4Pqc=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\andhi\\Documents\\Software Enigneering ITS\\Software Engineering Sem 3\\Perancangan Perangkat Lunak\\Tugas\\FinalProjectDesignPattern\\FPDesignPattern\\FPDesignPattern\\FPDesignPattern.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\andhi\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.36\\microsoft.windowsdesktop.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\andhi\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.36\\microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\andhi\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.36\\microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\andhi\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.36\\microsoft.netcore.app.host.win-x64.6.0.36.nupkg.sha512"
+  ],
+  "logs": []
+}
